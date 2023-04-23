@@ -1,0 +1,79 @@
+.slide{
+    margin-top: 2%;
+    width: 40%;
+    height: fit-content;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 3px;
+    line-height: 1px;
+    box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.62);
+    -webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.62);
+    -moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.62);
+}
+
+.one{
+    width: 95%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    display: flex;
+}
+.left{
+    width: 30%;
+    text-align: left;
+}
+
+.right{
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.dots{
+    margin-top: 6%;
+    font-weight: bold;
+    font-size: 200%; 
+}
+
+.picture{
+    width: 100%;
+    height: fit-content;
+    height: auto;
+    margin-bottom: 1%;
+    /* padding-left: 2px; */
+    /* padding-left: 2px; */
+    /* padding-right: 2px; */
+
+}
+
+.two{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.left1{
+    width: 30%;
+    height: auto;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.right1{
+    width: 70%;
+    height: auto;
+    text-align: right;
+    margin-right: 3%;
+}
+
+.icon{
+    width: 20%;
+    height: auto;
+    margin-right: 5%;
+}
+
+.desc{
+    text-align: left;
+    margin-left: 2.5%;
+}

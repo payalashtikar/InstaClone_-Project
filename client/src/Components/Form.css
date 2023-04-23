@@ -1,0 +1,75 @@
+
+.formtag{
+    background-color: steelblue;
+    border: 2px groove #eee;
+    border-radius: 2%;
+    width: 40%;
+    padding: 5px;
+    /* height:50vh; */
+    margin: auto;
+    margin-top: 5%; 
+}
+
+#fileupload{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    /* margin: 5%; */
+    margin: 2.5%;
+
+    width: 95%;
+    height: 5vh;
+    margin-top:12%;
+}
+
+/* input#file-upload-button{
+    margin-top: auto;
+    margin-bottom: auto;
+} */
+ 
+.author{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    width: 45%;
+    height: 4vh;
+}
+
+.location{
+    border: 1px solid black;
+    border-radius: 5px;
+    /* margin: 2.5% 2% 2.5% 0; */
+    margin: 2.5% 2.5% 2.5% 2.5%;
+    width: 46%;
+    height: 4vh;
+}
+
+.description{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2.1%;
+    width: 94.5%;
+    height: 4vh;
+    display: inline-block;
+    /* background-color: aliceblue; */
+    background-color: aliceblue;
+    /* margin-top: 4%; */
+}
+
+#bttn{
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: medium;
+    margin-top: 5%;
+}
+
+#bttn:hover{
+    background-color: steelblue;
+    border-color: black;
+    cursor: pointer;
+    width: 22%;
+    margin-left: 39%;
+    margin-right: 39%;
+    font-weight: 200;
+}
