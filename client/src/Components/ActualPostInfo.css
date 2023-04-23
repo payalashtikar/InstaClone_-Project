@@ -1,0 +1,7 @@
+.card-section{
+    width: 95%;
+    padding: 2.5%;
+    display: grid;
+    border-radius: 5px;
+    height: 40vh;
+}

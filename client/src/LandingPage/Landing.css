@@ -1,0 +1,60 @@
+
+.wrapper{
+    width: 50%;
+    height: auto;
+    display: flex;
+    border-radius: 10px;
+    padding: 2%;
+
+    margin: auto;
+    border: 5px solid #eee;
+}
+
+.innerbox{
+    width: 50%;
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+    margin: 5px;
+}
+
+.photo{
+    width: 100%;
+    height: auto;
+    
+}
+
+.heading{
+    font-size: 250%;
+    color: rgb(13, 243, 13);
+    margin-top: 40%;
+
+}
+
+button{
+    width: 30%;
+    height: 35px;
+    border-color: grey;
+    border-radius: 5px;
+}
+
+a:-webkit-any-link{
+    color: rgba(0, 0, 0, 0.767);
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+button:hover{
+    background-color: green;
+    color: white;
+}
+
+a{
+    margin: auto;
+}
+/* 
+button :hover{
+    background-color: black;
+    color:white;
+} */
