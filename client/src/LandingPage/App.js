@@ -4,6 +4,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Postview from './../Postview';
 import Form from '../Components/Form';
 import Landing from './Landing';
+// import Custompage from '../Components/custompage';
+// import Custompage from '../Components/custompage';
+// import Custompage from '../Components/Custompage';
+// import Custompage from '../Components/Custompage';
 
 export default function App() {
   return (
